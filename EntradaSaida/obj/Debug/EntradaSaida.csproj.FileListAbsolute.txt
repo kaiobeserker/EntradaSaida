@@ -1,0 +1,11 @@
+C:\Users\kaio.ofigueiredo\source\repos\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.csproj.AssemblyReference.cache
+C:\Users\kaio.ofigueiredo\source\repos\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaio.ofigueiredo\source\repos\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.Form1.resources
+C:\Users\kaio.ofigueiredo\source\repos\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.Properties.Resources.resources
+C:\Users\kaio.ofigueiredo\source\repos\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.csproj.GenerateResource.cache
+C:\Users\kaio.ofigueiredo\source\repos\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.csproj.CoreCompileInputs.cache
+C:\Users\kaio.ofigueiredo\source\repos\EntradaSaida\EntradaSaida\bin\Debug\EntradaSaida.exe.config
+C:\Users\kaio.ofigueiredo\source\repos\EntradaSaida\EntradaSaida\bin\Debug\EntradaSaida.exe
+C:\Users\kaio.ofigueiredo\source\repos\EntradaSaida\EntradaSaida\bin\Debug\EntradaSaida.pdb
+C:\Users\kaio.ofigueiredo\source\repos\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.exe
+C:\Users\kaio.ofigueiredo\source\repos\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.pdb
